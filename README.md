@@ -38,14 +38,15 @@
 
 # 🏆 Cyber Platforms
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?style=for-the-badge&logo=tryhackme&logoColor=00ff00)](https://tryhackme.com/p/YOUR_USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://app.hackthebox.com/profile/YOUR_ID)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?style=for-the-badge&logo=tryhackme&logoColor=00ff00)](https://tryhackme.com/p/chinmaymathur53)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://app.hackthebox.com/profile/
+@mrrobot0027)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CM-23&theme=merko&hide_border=true&include_all_commits=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CM-23&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CM-23&theme=merko&hide_border=true&include_all_commits=true)
+![](https://streak-stats.demolab.com?user=CM-23&theme=merko&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CM-23&theme=merko&hide_border=true&layout=compact)
 
 ---
