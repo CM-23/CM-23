@@ -1,7 +1,16 @@
+<!-- Typing Hacker Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+Cyber+Profile...;Red+Team+%7C+Blue+Team;Ethical+Hacker+%7C+SOC+Analyst;Breaking+Systems...+Securing+Networks" />
+</p>
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/chinmay-mathur-9456051a3) 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%23000000?logo=mastodon&logoColor=00ff00)](https://mastodon.social/@ChinmayMathur) 
 [![Email](https://img.shields.io/badge/Email-%23000000?logo=gmail&logoColor=00ff00)](mailto:chinmaymathur53@gmail.com)
+
+---
 
 # 💻 Tech Stack:
 
@@ -27,6 +36,13 @@
 
 ---
 
+# 🏆 Cyber Platforms
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?style=for-the-badge&logo=tryhackme&logoColor=00ff00)](https://tryhackme.com/p/YOUR_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://app.hackthebox.com/profile/YOUR_ID)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CM-23&theme=merko&hide_border=true&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CM-23&theme=merko&hide_border=true)<br/>
@@ -34,4 +50,4 @@
 
 ---
 
-<!-- Proudly enhanced with Cybersecurity mindset -->
+<!-- Cybersecurity Profile Activated -->
