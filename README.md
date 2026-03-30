@@ -39,7 +39,7 @@
 # 🏆 Cyber Platforms
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?style=for-the-badge&logo=tryhackme&logoColor=00ff00)](https://tryhackme.com/p/chinmaymathur53)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://app.hackthebox.com/profile/
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](\https://app.hackthebox.com/profile/
 @mrrobot0027)
 
 ---
